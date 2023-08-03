@@ -1,2 +1,2 @@
 # perfect-repo
-The "perfect" repo which utilizes a multitude of technologies that enable rapid development of AWS-based microservices with automated builds and documentation
+The "perfect" repo which utilizes a multitude of technologies that enable rapid development ofs microservices with automated builds and documentation
